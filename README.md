@@ -93,5 +93,4 @@ Hi, I'm <a href="https://github.com/adilrahman"> Reynel </a>
 </kbd>
 </p>
  
-</h2>
-
+</h2> aver haslo 
