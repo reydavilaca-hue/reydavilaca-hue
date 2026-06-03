@@ -19,7 +19,7 @@ Hi, I'm <a href="https://github.com/adilrahman"> Reynel </a>
 > Committed to lifelong learning 💖
 ```
 
-<img src="https://img.shields.io/badge/Focus-Networking%20-brightgreen" />  <img src="https://img.shields.io/badge/Focus-Cybersegurity%20-brightgreen" />  <img src="https://img.shields.io/badge/Focus-Automation%20-brightgreen" /> 
+<img src="https://img.shields.io/badge/Focus-Networking%20-brightgreen" />  <img src="https://img.shields.io/badge/Focus-Cybersecurity%20-brightgreen" />  <img src="https://img.shields.io/badge/Focus-Automation%20-brightgreen" /> 
 
 <h2>
 <h2>🛠️ Tech Stack</h2>
@@ -93,4 +93,22 @@ Hi, I'm <a href="https://github.com/adilrahman"> Reynel </a>
 </kbd>
 </p>
  
-</h2> aver haslo 
+</h2>
+<h2>📫 Connect With Me</h2>
+
+<a href="#">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:TU_CORREO">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="TU_INSTAGRAM">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
+<a href="TU_FACEBOOK">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+</a>
+
