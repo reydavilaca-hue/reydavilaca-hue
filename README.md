@@ -98,7 +98,7 @@ Hi, I'm <a href="https://github.com/adilrahman"> Reynel </a>
 <h2>📫 Connect With Me</h2>
 
 <br>
-<img src="https://streak-stats.demolab.com?user=reydavilaca-hue&theme=tokyonight"/>
+
 <a href="#">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
