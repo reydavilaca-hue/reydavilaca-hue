@@ -23,7 +23,7 @@ Hi, I'm <a href="https://github.com/adilrahman"> Reynel </a>
 
 <h2>
 <h2>🛠️ Tech Stack</h2>
-
+<br>
 <p>
 <kbd>
 <kbd>🌐 Networking</kbd>
@@ -94,7 +94,10 @@ Hi, I'm <a href="https://github.com/adilrahman"> Reynel </a>
 </p>
  
 </h2>
+<h2></h2>
 <h2>📫 Connect With Me</h2>
+
+<br>
 
 <a href="#">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
